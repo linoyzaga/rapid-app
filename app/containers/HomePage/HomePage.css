@@ -1,0 +1,13 @@
+.logout {
+  position: absolute;
+  right: 20px;
+  top: 10px;
+}
+
+.thumbnail {
+  position: absolute;
+}
+
+.thumbnail:hover {
+  cursor: move;
+}
